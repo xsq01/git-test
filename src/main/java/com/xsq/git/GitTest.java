@@ -8,5 +8,9 @@ public class GitTest {
         System.out.println("pull suceessful");
         System.out.println("pull suceessful");
          System.out.println("pull suceessful1");
+        System.out.println("pull suceessful");
+         System.out.println("pull suceessful1");
+         System.out.println("pull xsq");
+
     }
 }
