@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("hlloxsq");
         System.out.println("nihaoa");
         Syste.out.println("pull suceessful");
+         Syste.out.println("pull suceessful1");
     }
 }
